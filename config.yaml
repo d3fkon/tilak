@@ -1,0 +1,13 @@
+---
+  metaData: 
+    author: "d3fkon"
+    git-repo: "https://github.com/d3fkon/tilak"
+    approval: 
+      approved-by: "d3fkon"
+      approval-date: 1564204441965
+  job: 
+    job-name: "d3fkonxtilak"
+    config: 
+      pre-unit-test: "yes"
+      post-unit-test: "no"
+      dev: "no"
